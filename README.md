@@ -1,0 +1,1 @@
+Please note that github sometimes has problems displaying pdf files correctly, depending on the web browser used and/or the browser settings. In such a case, please download the pdf file and view it locally.
