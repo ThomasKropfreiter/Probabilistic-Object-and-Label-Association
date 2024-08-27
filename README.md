@@ -1,1 +1,1 @@
-Please note that github sometimes has problems displaying pdf files correctly, depending on the web browser used and/or the browser settings. In such a case, please download the pdf file (either directly or via the zip repository) and view it locally.
+Please note that github sometimes has problems displaying pdf files correctly, depending on the web browser used, e.g., Safari/Mac, and/or the browser settings. In such a case, please download the pdf file (either directly or via the zip repository) and view it locally.
